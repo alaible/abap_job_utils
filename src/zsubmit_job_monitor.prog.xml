@@ -25,12 +25,12 @@
     <item>
      <ID>R</ID>
      <ENTRY>Programm ZSUBMIT_JOB_MONITOR</ENTRY>
-     <LENGTH>29</LENGTH>
+     <LENGTH>28</LENGTH>
     </item>
     <item>
      <ID>S</ID>
      <KEY>P_JCNT</KEY>
-     <ENTRY>Selection Variable Job-Count</ENTRY>
+     <ENTRY>Selection Variable Job-ID</ENTRY>
      <LENGTH>36</LENGTH>
     </item>
     <item>

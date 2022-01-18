@@ -13,23 +13,23 @@
     <item>
      <ID>R</ID>
      <ENTRY>Programm ZJOB_MONITOR</ENTRY>
-     <LENGTH>22</LENGTH>
+     <LENGTH>21</LENGTH>
     </item>
     <item>
      <ID>S</ID>
-     <KEY>PA_JBCNT</KEY>
-     <ENTRY>Jobnummer</ENTRY>
-     <LENGTH>17</LENGTH>
+     <KEY>P_JBCNT</KEY>
+     <ENTRY>Job-ID</ENTRY>
+     <LENGTH>14</LENGTH>
     </item>
     <item>
      <ID>S</ID>
-     <KEY>PA_JBNAM</KEY>
-     <ENTRY>Jobname</ENTRY>
-     <LENGTH>15</LENGTH>
+     <KEY>P_JBNAM</KEY>
+     <ENTRY>Job-Name</ENTRY>
+     <LENGTH>16</LENGTH>
     </item>
     <item>
      <ID>S</ID>
-     <KEY>PA_WAIT</KEY>
+     <KEY>P_WAIT</KEY>
      <ENTRY>Check-Interval</ENTRY>
      <LENGTH>22</LENGTH>
     </item>
