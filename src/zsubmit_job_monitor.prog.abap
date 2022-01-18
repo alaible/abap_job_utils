@@ -100,7 +100,7 @@ START-OF-SELECTION.
         selpar_job_name->dequeue_tvarv( ).
       CATCH zcx_job_error.
         MESSAGE |Could not release target Job for Job-Monitor| TYPE 'E'.
-      CATCH zcx_no_entry_found. " zcx_no_entry_found
+      CATCH zcx_job_no_entry_found. " zcx_job_no_entry_found
         MESSAGE |Copy-Source for Job-Monitor not found| TYPE 'E'.
     ENDTRY.
   ENDIF.
