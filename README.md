@@ -1,5 +1,4 @@
 # abap_job_utils
-Repo for ABAP Job-Utilities
 
 Coding Snippets to show a simple way to implement "automatic" monitoring of batch jobs.
 For demonstration purposes only (usage of unreleased function-modules)
